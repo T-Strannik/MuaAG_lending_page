@@ -177,7 +177,7 @@
 		<div id="contacts">
 			<div id="frame">
 				<h1>Свежее видео:</h1>
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/65JHUnRCYOY" frameborder="0" allowfullscreen></iframe>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/72Kz_Njo-fI" frameborder="0" allowfullscreen></iframe>
 			</div>
 
 			<div class="col-6">
